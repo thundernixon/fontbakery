@@ -1,1 +1,3 @@
-This pull request addresses the problems described at issue #xxxx
+Fixes #xxx
+
+<Replace the above xxx with the issue ID associated with this PR>
