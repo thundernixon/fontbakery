@@ -1,11 +1,13 @@
-## Observed behaviour
+#### Observed behaviour
 
-(Describe here what was the result that you are commenting on)
+<Describe here what was the result that you are commenting on>
 
-## Expected behaviour
+#### Expected behaviour
 
-(Describe here what you expected to happen, or what you wish was different)
+<Describe here what you expected to happen or what you wish was different>
 
-## Resources and exact process needed to replicate
+#### Resources and exact process needed to replicate
 
-(Please provide here an URL to a font file that appears to cause the issue, and the exact steps from updating to the latest code on the `master` branch to reproduce the Observed Behaviour. We need this in for replicating the issue and fixing it :)
+<Provide a font URL to test with or drag and drop a file into this input element to upload it to Github where it will be available as part of the issue>
+
+<Describe here the exact steps from updating to the latest git master branch of FB to reproducing the Observed Behaviour>
